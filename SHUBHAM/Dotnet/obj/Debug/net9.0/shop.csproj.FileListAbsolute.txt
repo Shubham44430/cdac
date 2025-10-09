@@ -1,0 +1,4 @@
+/home/cdac/SHUBHAM/Dotnet/obj/Debug/net9.0/shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/SHUBHAM/Dotnet/obj/Debug/net9.0/shop.AssemblyInfoInputs.cache
+/home/cdac/SHUBHAM/Dotnet/obj/Debug/net9.0/shop.AssemblyInfo.cs
+/home/cdac/SHUBHAM/Dotnet/obj/Debug/net9.0/shop.csproj.CoreCompileInputs.cache
