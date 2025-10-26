@@ -1,0 +1,14 @@
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/Loan.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/Loan.AssemblyInfoInputs.cache
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/Loan.AssemblyInfo.cs
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/Loan.csproj.CoreCompileInputs.cache
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/bin/Debug/net9.0/Loan
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/bin/Debug/net9.0/Loan.deps.json
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/bin/Debug/net9.0/Loan.runtimeconfig.json
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/bin/Debug/net9.0/Loan.dll
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/bin/Debug/net9.0/Loan.pdb
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/Loan.dll
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/refint/Loan.dll
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/Loan.pdb
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/Loan.genruntimeconfig.cache
+/home/cdac/DotnetPractice/Assignment/Assi5/Bank/obj/Debug/net9.0/ref/Loan.dll

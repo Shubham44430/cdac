@@ -1,0 +1,14 @@
+/home/cdac/DotnetPractice/Assignment/Distance1/bin/Debug/net9.0/Distance
+/home/cdac/DotnetPractice/Assignment/Distance1/bin/Debug/net9.0/Distance.deps.json
+/home/cdac/DotnetPractice/Assignment/Distance1/bin/Debug/net9.0/Distance.runtimeconfig.json
+/home/cdac/DotnetPractice/Assignment/Distance1/bin/Debug/net9.0/Distance.dll
+/home/cdac/DotnetPractice/Assignment/Distance1/bin/Debug/net9.0/Distance.pdb
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/Distance.GeneratedMSBuildEditorConfig.editorconfig
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/Distance.AssemblyInfoInputs.cache
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/Distance.AssemblyInfo.cs
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/Distance.csproj.CoreCompileInputs.cache
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/Distance.dll
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/refint/Distance.dll
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/Distance.pdb
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/Distance.genruntimeconfig.cache
+/home/cdac/DotnetPractice/Assignment/Distance1/obj/Debug/net9.0/ref/Distance.dll
